@@ -1,0 +1,2 @@
+script_key = "KEY";
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/b44b44d0ac2964dcdb910a7bf1a4e0f94a80ab8de5afa69aa44b098eb3b8bbed/download"))()
